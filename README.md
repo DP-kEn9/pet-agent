@@ -2,6 +2,8 @@
 
 # 仙洲课业簿快速上手
 
+[在线阅读演示稿（共 10 页）](docs/demo-slides/README.md)
+
 打开[网页版主页](https://simucultivation.online/latest/)，点左上角人物入口，选择「登录」。首次使用请点「注册新账号」，按提示设置账号和密码；已有账号可直接[登录](https://simucultivation.online/latest/login)。
 
 ![「今日」页面的两个入口：上方红框圈出秘境红绳，底部红框圈出规划助手按钮](docs/images/today-entry-points.png)
