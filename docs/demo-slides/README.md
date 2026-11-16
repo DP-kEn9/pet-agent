@@ -1,6 +1,6 @@
 # 仙洲课业簿演示稿
 
-向下滑动即可阅读全部 10 页。点击任意一页可放大查看，也可以[下载原版 PDF](https://raw.githubusercontent.com/DP-kEn9/pet-agent/main/docs/xianzhou-study-planner-demo-slides.pdf)。
+向下滑动即可阅读全部 10 页。点击任意一页可放大查看，也可以[下载原版 PDF](https://raw.githubusercontent.com/DP-kEn9/pet-agent/main/docs/demo-slides/xianzhou-study-planner-demo-slides.pdf)。
 
 [![第 1 页 · 仙洲课业簿：为用户提供规划与个性化陪伴](slide-01.jpg)](slide-01.jpg?raw=true)
 
