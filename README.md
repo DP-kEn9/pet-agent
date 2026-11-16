@@ -1,3 +1,5 @@
+仙洲课业簿主页：<https://simucultivation.online/>
+
 # 仙洲课业簿快速上手
 
 打开[网页版主页](https://simucultivation.online/latest/)，点左上角人物入口，选择「登录」。首次使用请点「注册新账号」，按提示设置账号和密码；已有账号可直接[登录](https://simucultivation.online/latest/login)。
